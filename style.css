@@ -80,6 +80,9 @@ body::before {
     border: none;
     cursor: pointer;
 }
+.search-btn span {
+    color: rgb(255, 255, 255, 0.75);
+}
 /* END INPUT CONTAINER */
 
 /* SECTION: WEATHER INFO */
